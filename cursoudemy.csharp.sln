@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalcularAreadeumTrapezio", "CalcularAreadeumTrapezio\CalcularAreadeumTrapezio.csproj", "{7BDBCF61-AEBC-4D23-9934-D459F4C578C1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Casting", "Casting\Casting.csproj", "{CA053976-E86A-440B-9D4C-DA6333E3E957}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntradadeDado_1", "EntradadeDado_1\EntradadeDado_1.csproj", "{D0C07F25-5096-4F91-AA0C-EF562CABA114}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7BDBCF61-AEBC-4D23-9934-D459F4C578C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BDBCF61-AEBC-4D23-9934-D459F4C578C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BDBCF61-AEBC-4D23-9934-D459F4C578C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BDBCF61-AEBC-4D23-9934-D459F4C578C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA053976-E86A-440B-9D4C-DA6333E3E957}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA053976-E86A-440B-9D4C-DA6333E3E957}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA053976-E86A-440B-9D4C-DA6333E3E957}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA053976-E86A-440B-9D4C-DA6333E3E957}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0C07F25-5096-4F91-AA0C-EF562CABA114}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0C07F25-5096-4F91-AA0C-EF562CABA114}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0C07F25-5096-4F91-AA0C-EF562CABA114}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0C07F25-5096-4F91-AA0C-EF562CABA114}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

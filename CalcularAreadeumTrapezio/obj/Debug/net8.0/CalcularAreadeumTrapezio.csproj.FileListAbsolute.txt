@@ -1,0 +1,14 @@
+C:\Users\36124872022.2N\Documents\C#\CalcularAreadeumTrapezio\bin\Debug\net8.0\CalcularAreadeumTrapezio.exe
+c:\Users\36124872022.2N\Documents\C#\CalcularAreadeumTrapezio\bin\Debug\net8.0\CalcularAreadeumTrapezio.deps.json
+c:\Users\36124872022.2N\Documents\C#\CalcularAreadeumTrapezio\bin\Debug\net8.0\CalcularAreadeumTrapezio.runtimeconfig.json
+C:\Users\36124872022.2N\Documents\C#\CalcularAreadeumTrapezio\bin\Debug\net8.0\CalcularAreadeumTrapezio.dll
+C:\Users\36124872022.2N\Documents\C#\CalcularAreadeumTrapezio\bin\Debug\net8.0\CalcularAreadeumTrapezio.pdb
+C:\Users\36124872022.2N\Documents\C#\CalcularAreadeumTrapezio\obj\Debug\net8.0\CalcularAreadeumTrapezio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\36124872022.2N\Documents\C#\CalcularAreadeumTrapezio\obj\Debug\net8.0\CalcularAreadeumTrapezio.AssemblyInfoInputs.cache
+C:\Users\36124872022.2N\Documents\C#\CalcularAreadeumTrapezio\obj\Debug\net8.0\CalcularAreadeumTrapezio.AssemblyInfo.cs
+C:\Users\36124872022.2N\Documents\C#\CalcularAreadeumTrapezio\obj\Debug\net8.0\CalcularAreadeumTrapezio.csproj.CoreCompileInputs.cache
+C:\Users\36124872022.2N\Documents\C#\CalcularAreadeumTrapezio\obj\Debug\net8.0\CalcularAreadeumTrapezio.dll
+C:\Users\36124872022.2N\Documents\C#\CalcularAreadeumTrapezio\obj\Debug\net8.0\refint\CalcularAreadeumTrapezio.dll
+C:\Users\36124872022.2N\Documents\C#\CalcularAreadeumTrapezio\obj\Debug\net8.0\CalcularAreadeumTrapezio.pdb
+c:\Users\36124872022.2N\Documents\C#\CalcularAreadeumTrapezio\obj\Debug\net8.0\CalcularAreadeumTrapezio.genruntimeconfig.cache
+c:\Users\36124872022.2N\Documents\C#\CalcularAreadeumTrapezio\obj\Debug\net8.0\ref\CalcularAreadeumTrapezio.dll
