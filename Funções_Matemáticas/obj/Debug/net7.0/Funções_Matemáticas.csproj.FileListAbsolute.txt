@@ -1,0 +1,14 @@
+C:\Users\adryano.chavier\Documents\UdemyCSharp\Funções_Matemáticas\bin\Debug\net7.0\Funções_Matemáticas.exe
+c:\Users\adryano.chavier\Documents\UdemyCSharp\Funções_Matemáticas\bin\Debug\net7.0\Funções_Matemáticas.deps.json
+c:\Users\adryano.chavier\Documents\UdemyCSharp\Funções_Matemáticas\bin\Debug\net7.0\Funções_Matemáticas.runtimeconfig.json
+C:\Users\adryano.chavier\Documents\UdemyCSharp\Funções_Matemáticas\bin\Debug\net7.0\Funções_Matemáticas.dll
+C:\Users\adryano.chavier\Documents\UdemyCSharp\Funções_Matemáticas\bin\Debug\net7.0\Funções_Matemáticas.pdb
+C:\Users\adryano.chavier\Documents\UdemyCSharp\Funções_Matemáticas\obj\Debug\net7.0\Funções_Matemáticas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adryano.chavier\Documents\UdemyCSharp\Funções_Matemáticas\obj\Debug\net7.0\Funções_Matemáticas.AssemblyInfoInputs.cache
+C:\Users\adryano.chavier\Documents\UdemyCSharp\Funções_Matemáticas\obj\Debug\net7.0\Funções_Matemáticas.AssemblyInfo.cs
+C:\Users\adryano.chavier\Documents\UdemyCSharp\Funções_Matemáticas\obj\Debug\net7.0\Funções_Matemáticas.csproj.CoreCompileInputs.cache
+C:\Users\adryano.chavier\Documents\UdemyCSharp\Funções_Matemáticas\obj\Debug\net7.0\Funções_Matemáticas.dll
+C:\Users\adryano.chavier\Documents\UdemyCSharp\Funções_Matemáticas\obj\Debug\net7.0\refint\Funções_Matemáticas.dll
+C:\Users\adryano.chavier\Documents\UdemyCSharp\Funções_Matemáticas\obj\Debug\net7.0\Funções_Matemáticas.pdb
+c:\Users\adryano.chavier\Documents\UdemyCSharp\Funções_Matemáticas\obj\Debug\net7.0\Funções_Matemáticas.genruntimeconfig.cache
+c:\Users\adryano.chavier\Documents\UdemyCSharp\Funções_Matemáticas\obj\Debug\net7.0\ref\Funções_Matemáticas.dll

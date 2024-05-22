@@ -1,0 +1,14 @@
+C:\Users\adryano.chavier\Documents\UdemyCSharp\Exercicio_CalcularArea\bin\Debug\net7.0\Exercicio_CalcularArea.exe
+c:\Users\adryano.chavier\Documents\UdemyCSharp\Exercicio_CalcularArea\bin\Debug\net7.0\Exercicio_CalcularArea.deps.json
+c:\Users\adryano.chavier\Documents\UdemyCSharp\Exercicio_CalcularArea\bin\Debug\net7.0\Exercicio_CalcularArea.runtimeconfig.json
+C:\Users\adryano.chavier\Documents\UdemyCSharp\Exercicio_CalcularArea\bin\Debug\net7.0\Exercicio_CalcularArea.dll
+C:\Users\adryano.chavier\Documents\UdemyCSharp\Exercicio_CalcularArea\bin\Debug\net7.0\Exercicio_CalcularArea.pdb
+C:\Users\adryano.chavier\Documents\UdemyCSharp\Exercicio_CalcularArea\obj\Debug\net7.0\Exercicio_CalcularArea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adryano.chavier\Documents\UdemyCSharp\Exercicio_CalcularArea\obj\Debug\net7.0\Exercicio_CalcularArea.AssemblyInfoInputs.cache
+C:\Users\adryano.chavier\Documents\UdemyCSharp\Exercicio_CalcularArea\obj\Debug\net7.0\Exercicio_CalcularArea.AssemblyInfo.cs
+C:\Users\adryano.chavier\Documents\UdemyCSharp\Exercicio_CalcularArea\obj\Debug\net7.0\Exercicio_CalcularArea.csproj.CoreCompileInputs.cache
+C:\Users\adryano.chavier\Documents\UdemyCSharp\Exercicio_CalcularArea\obj\Debug\net7.0\Exercicio_CalcularArea.dll
+C:\Users\adryano.chavier\Documents\UdemyCSharp\Exercicio_CalcularArea\obj\Debug\net7.0\refint\Exercicio_CalcularArea.dll
+C:\Users\adryano.chavier\Documents\UdemyCSharp\Exercicio_CalcularArea\obj\Debug\net7.0\Exercicio_CalcularArea.pdb
+c:\Users\adryano.chavier\Documents\UdemyCSharp\Exercicio_CalcularArea\obj\Debug\net7.0\Exercicio_CalcularArea.genruntimeconfig.cache
+c:\Users\adryano.chavier\Documents\UdemyCSharp\Exercicio_CalcularArea\obj\Debug\net7.0\ref\Exercicio_CalcularArea.dll
