@@ -1,0 +1,14 @@
+C:\Users\adryano.chavier\Documents\UdemyCSharp\Exercicio_Data\bin\Debug\net7.0\Exercicio_Data.exe
+c:\Users\adryano.chavier\Documents\UdemyCSharp\Exercicio_Data\bin\Debug\net7.0\Exercicio_Data.deps.json
+c:\Users\adryano.chavier\Documents\UdemyCSharp\Exercicio_Data\bin\Debug\net7.0\Exercicio_Data.runtimeconfig.json
+C:\Users\adryano.chavier\Documents\UdemyCSharp\Exercicio_Data\bin\Debug\net7.0\Exercicio_Data.dll
+C:\Users\adryano.chavier\Documents\UdemyCSharp\Exercicio_Data\bin\Debug\net7.0\Exercicio_Data.pdb
+C:\Users\adryano.chavier\Documents\UdemyCSharp\Exercicio_Data\obj\Debug\net7.0\Exercicio_Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adryano.chavier\Documents\UdemyCSharp\Exercicio_Data\obj\Debug\net7.0\Exercicio_Data.AssemblyInfoInputs.cache
+C:\Users\adryano.chavier\Documents\UdemyCSharp\Exercicio_Data\obj\Debug\net7.0\Exercicio_Data.AssemblyInfo.cs
+C:\Users\adryano.chavier\Documents\UdemyCSharp\Exercicio_Data\obj\Debug\net7.0\Exercicio_Data.csproj.CoreCompileInputs.cache
+C:\Users\adryano.chavier\Documents\UdemyCSharp\Exercicio_Data\obj\Debug\net7.0\Exercicio_Data.dll
+C:\Users\adryano.chavier\Documents\UdemyCSharp\Exercicio_Data\obj\Debug\net7.0\refint\Exercicio_Data.dll
+C:\Users\adryano.chavier\Documents\UdemyCSharp\Exercicio_Data\obj\Debug\net7.0\Exercicio_Data.pdb
+c:\Users\adryano.chavier\Documents\UdemyCSharp\Exercicio_Data\obj\Debug\net7.0\Exercicio_Data.genruntimeconfig.cache
+c:\Users\adryano.chavier\Documents\UdemyCSharp\Exercicio_Data\obj\Debug\net7.0\ref\Exercicio_Data.dll

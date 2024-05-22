@@ -1,0 +1,14 @@
+C:\Users\adryano.chavier\Documents\UdemyCSharp\Exercicio_Mediadeidades\bin\Debug\net7.0\Exercicio_Mediadeidades.exe
+c:\Users\adryano.chavier\Documents\UdemyCSharp\Exercicio_Mediadeidades\bin\Debug\net7.0\Exercicio_Mediadeidades.deps.json
+c:\Users\adryano.chavier\Documents\UdemyCSharp\Exercicio_Mediadeidades\bin\Debug\net7.0\Exercicio_Mediadeidades.runtimeconfig.json
+C:\Users\adryano.chavier\Documents\UdemyCSharp\Exercicio_Mediadeidades\bin\Debug\net7.0\Exercicio_Mediadeidades.dll
+C:\Users\adryano.chavier\Documents\UdemyCSharp\Exercicio_Mediadeidades\bin\Debug\net7.0\Exercicio_Mediadeidades.pdb
+C:\Users\adryano.chavier\Documents\UdemyCSharp\Exercicio_Mediadeidades\obj\Debug\net7.0\Exercicio_Mediadeidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adryano.chavier\Documents\UdemyCSharp\Exercicio_Mediadeidades\obj\Debug\net7.0\Exercicio_Mediadeidades.AssemblyInfoInputs.cache
+C:\Users\adryano.chavier\Documents\UdemyCSharp\Exercicio_Mediadeidades\obj\Debug\net7.0\Exercicio_Mediadeidades.AssemblyInfo.cs
+C:\Users\adryano.chavier\Documents\UdemyCSharp\Exercicio_Mediadeidades\obj\Debug\net7.0\Exercicio_Mediadeidades.csproj.CoreCompileInputs.cache
+C:\Users\adryano.chavier\Documents\UdemyCSharp\Exercicio_Mediadeidades\obj\Debug\net7.0\Exercicio_Mediadeidades.dll
+C:\Users\adryano.chavier\Documents\UdemyCSharp\Exercicio_Mediadeidades\obj\Debug\net7.0\refint\Exercicio_Mediadeidades.dll
+C:\Users\adryano.chavier\Documents\UdemyCSharp\Exercicio_Mediadeidades\obj\Debug\net7.0\Exercicio_Mediadeidades.pdb
+c:\Users\adryano.chavier\Documents\UdemyCSharp\Exercicio_Mediadeidades\obj\Debug\net7.0\Exercicio_Mediadeidades.genruntimeconfig.cache
+c:\Users\adryano.chavier\Documents\UdemyCSharp\Exercicio_Mediadeidades\obj\Debug\net7.0\ref\Exercicio_Mediadeidades.dll
