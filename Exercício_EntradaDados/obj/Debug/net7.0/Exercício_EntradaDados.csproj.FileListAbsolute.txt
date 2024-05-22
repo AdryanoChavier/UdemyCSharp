@@ -1,0 +1,14 @@
+C:\Users\adryano.chavier\Documents\UdemyCSharp\Exercício_EntradaDados\bin\Debug\net7.0\Exercício_EntradaDados.exe
+c:\Users\adryano.chavier\Documents\UdemyCSharp\Exercício_EntradaDados\bin\Debug\net7.0\Exercício_EntradaDados.deps.json
+c:\Users\adryano.chavier\Documents\UdemyCSharp\Exercício_EntradaDados\bin\Debug\net7.0\Exercício_EntradaDados.runtimeconfig.json
+C:\Users\adryano.chavier\Documents\UdemyCSharp\Exercício_EntradaDados\bin\Debug\net7.0\Exercício_EntradaDados.dll
+C:\Users\adryano.chavier\Documents\UdemyCSharp\Exercício_EntradaDados\bin\Debug\net7.0\Exercício_EntradaDados.pdb
+C:\Users\adryano.chavier\Documents\UdemyCSharp\Exercício_EntradaDados\obj\Debug\net7.0\Exercício_EntradaDados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adryano.chavier\Documents\UdemyCSharp\Exercício_EntradaDados\obj\Debug\net7.0\Exercício_EntradaDados.AssemblyInfoInputs.cache
+C:\Users\adryano.chavier\Documents\UdemyCSharp\Exercício_EntradaDados\obj\Debug\net7.0\Exercício_EntradaDados.AssemblyInfo.cs
+C:\Users\adryano.chavier\Documents\UdemyCSharp\Exercício_EntradaDados\obj\Debug\net7.0\Exercício_EntradaDados.csproj.CoreCompileInputs.cache
+C:\Users\adryano.chavier\Documents\UdemyCSharp\Exercício_EntradaDados\obj\Debug\net7.0\Exercício_EntradaDados.dll
+C:\Users\adryano.chavier\Documents\UdemyCSharp\Exercício_EntradaDados\obj\Debug\net7.0\refint\Exercício_EntradaDados.dll
+C:\Users\adryano.chavier\Documents\UdemyCSharp\Exercício_EntradaDados\obj\Debug\net7.0\Exercício_EntradaDados.pdb
+c:\Users\adryano.chavier\Documents\UdemyCSharp\Exercício_EntradaDados\obj\Debug\net7.0\Exercício_EntradaDados.genruntimeconfig.cache
+c:\Users\adryano.chavier\Documents\UdemyCSharp\Exercício_EntradaDados\obj\Debug\net7.0\ref\Exercício_EntradaDados.dll
