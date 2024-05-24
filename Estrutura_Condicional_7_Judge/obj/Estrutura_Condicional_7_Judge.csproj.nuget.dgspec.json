@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\adryano.chavier\\Documents\\UdemyCSharp\\Estrutura_Condicional_4\\Estrutura_Condicional_4.csproj": {}
+    "c:\\Users\\adryano.chavier\\Documents\\UdemyCSharp\\Estrutura_Condicional_7_Judge\\Estrutura_Condicional_7_Judge.csproj": {}
   },
   "projects": {
-    "c:\\Users\\adryano.chavier\\Documents\\UdemyCSharp\\Estrutura_Condicional_4\\Estrutura_Condicional_4.csproj": {
+    "c:\\Users\\adryano.chavier\\Documents\\UdemyCSharp\\Estrutura_Condicional_7_Judge\\Estrutura_Condicional_7_Judge.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\adryano.chavier\\Documents\\UdemyCSharp\\Estrutura_Condicional_4\\Estrutura_Condicional_4.csproj",
-        "projectName": "Estrutura_Condicional_4",
-        "projectPath": "c:\\Users\\adryano.chavier\\Documents\\UdemyCSharp\\Estrutura_Condicional_4\\Estrutura_Condicional_4.csproj",
+        "projectUniqueName": "c:\\Users\\adryano.chavier\\Documents\\UdemyCSharp\\Estrutura_Condicional_7_Judge\\Estrutura_Condicional_7_Judge.csproj",
+        "projectName": "Estrutura_Condicional_7_Judge",
+        "projectPath": "c:\\Users\\adryano.chavier\\Documents\\UdemyCSharp\\Estrutura_Condicional_7_Judge\\Estrutura_Condicional_7_Judge.csproj",
         "packagesPath": "C:\\Users\\adryano.chavier\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\adryano.chavier\\Documents\\UdemyCSharp\\Estrutura_Condicional_4\\obj\\",
+        "outputPath": "c:\\Users\\adryano.chavier\\Documents\\UdemyCSharp\\Estrutura_Condicional_7_Judge\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

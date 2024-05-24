@@ -1,0 +1,14 @@
+C:\Users\adryano.chavier\Documents\UdemyCSharp\Estrutura_Condicional_9_Judge\obj\Debug\net7.0\Estrutura_Condicional_9_Judge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adryano.chavier\Documents\UdemyCSharp\Estrutura_Condicional_9_Judge\obj\Debug\net7.0\Estrutura_Condicional_9_Judge.AssemblyInfoInputs.cache
+C:\Users\adryano.chavier\Documents\UdemyCSharp\Estrutura_Condicional_9_Judge\obj\Debug\net7.0\Estrutura_Condicional_9_Judge.AssemblyInfo.cs
+C:\Users\adryano.chavier\Documents\UdemyCSharp\Estrutura_Condicional_9_Judge\obj\Debug\net7.0\Estrutura_Condicional_9_Judge.csproj.CoreCompileInputs.cache
+C:\Users\adryano.chavier\Documents\UdemyCSharp\Estrutura_Condicional_9_Judge\bin\Debug\net7.0\Estrutura_Condicional_9_Judge.exe
+c:\Users\adryano.chavier\Documents\UdemyCSharp\Estrutura_Condicional_9_Judge\bin\Debug\net7.0\Estrutura_Condicional_9_Judge.deps.json
+c:\Users\adryano.chavier\Documents\UdemyCSharp\Estrutura_Condicional_9_Judge\bin\Debug\net7.0\Estrutura_Condicional_9_Judge.runtimeconfig.json
+C:\Users\adryano.chavier\Documents\UdemyCSharp\Estrutura_Condicional_9_Judge\bin\Debug\net7.0\Estrutura_Condicional_9_Judge.dll
+C:\Users\adryano.chavier\Documents\UdemyCSharp\Estrutura_Condicional_9_Judge\bin\Debug\net7.0\Estrutura_Condicional_9_Judge.pdb
+C:\Users\adryano.chavier\Documents\UdemyCSharp\Estrutura_Condicional_9_Judge\obj\Debug\net7.0\Estrutura_Condicional_9_Judge.dll
+C:\Users\adryano.chavier\Documents\UdemyCSharp\Estrutura_Condicional_9_Judge\obj\Debug\net7.0\refint\Estrutura_Condicional_9_Judge.dll
+C:\Users\adryano.chavier\Documents\UdemyCSharp\Estrutura_Condicional_9_Judge\obj\Debug\net7.0\Estrutura_Condicional_9_Judge.pdb
+c:\Users\adryano.chavier\Documents\UdemyCSharp\Estrutura_Condicional_9_Judge\obj\Debug\net7.0\Estrutura_Condicional_9_Judge.genruntimeconfig.cache
+c:\Users\adryano.chavier\Documents\UdemyCSharp\Estrutura_Condicional_9_Judge\obj\Debug\net7.0\ref\Estrutura_Condicional_9_Judge.dll

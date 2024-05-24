@@ -1,0 +1,14 @@
+C:\Users\adryano.chavier\Documents\UdemyCSharp\Estrutura_Condicional_5\bin\Debug\net7.0\Estrutura_Condicional_5.exe
+c:\Users\adryano.chavier\Documents\UdemyCSharp\Estrutura_Condicional_5\bin\Debug\net7.0\Estrutura_Condicional_5.deps.json
+c:\Users\adryano.chavier\Documents\UdemyCSharp\Estrutura_Condicional_5\bin\Debug\net7.0\Estrutura_Condicional_5.runtimeconfig.json
+C:\Users\adryano.chavier\Documents\UdemyCSharp\Estrutura_Condicional_5\bin\Debug\net7.0\Estrutura_Condicional_5.dll
+C:\Users\adryano.chavier\Documents\UdemyCSharp\Estrutura_Condicional_5\bin\Debug\net7.0\Estrutura_Condicional_5.pdb
+C:\Users\adryano.chavier\Documents\UdemyCSharp\Estrutura_Condicional_5\obj\Debug\net7.0\Estrutura_Condicional_5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adryano.chavier\Documents\UdemyCSharp\Estrutura_Condicional_5\obj\Debug\net7.0\Estrutura_Condicional_5.AssemblyInfoInputs.cache
+C:\Users\adryano.chavier\Documents\UdemyCSharp\Estrutura_Condicional_5\obj\Debug\net7.0\Estrutura_Condicional_5.AssemblyInfo.cs
+C:\Users\adryano.chavier\Documents\UdemyCSharp\Estrutura_Condicional_5\obj\Debug\net7.0\Estrutura_Condicional_5.csproj.CoreCompileInputs.cache
+C:\Users\adryano.chavier\Documents\UdemyCSharp\Estrutura_Condicional_5\obj\Debug\net7.0\Estrutura_Condicional_5.dll
+C:\Users\adryano.chavier\Documents\UdemyCSharp\Estrutura_Condicional_5\obj\Debug\net7.0\refint\Estrutura_Condicional_5.dll
+C:\Users\adryano.chavier\Documents\UdemyCSharp\Estrutura_Condicional_5\obj\Debug\net7.0\Estrutura_Condicional_5.pdb
+c:\Users\adryano.chavier\Documents\UdemyCSharp\Estrutura_Condicional_5\obj\Debug\net7.0\Estrutura_Condicional_5.genruntimeconfig.cache
+c:\Users\adryano.chavier\Documents\UdemyCSharp\Estrutura_Condicional_5\obj\Debug\net7.0\ref\Estrutura_Condicional_5.dll

@@ -1,0 +1,14 @@
+C:\Users\adryano.chavier\Documents\UdemyCSharp\Estrutura_Condiconal_6_Switch-case\bin\Debug\net7.0\Estrutura_Condiconal_6_Switch-case.exe
+c:\Users\adryano.chavier\Documents\UdemyCSharp\Estrutura_Condiconal_6_Switch-case\bin\Debug\net7.0\Estrutura_Condiconal_6_Switch-case.deps.json
+c:\Users\adryano.chavier\Documents\UdemyCSharp\Estrutura_Condiconal_6_Switch-case\bin\Debug\net7.0\Estrutura_Condiconal_6_Switch-case.runtimeconfig.json
+C:\Users\adryano.chavier\Documents\UdemyCSharp\Estrutura_Condiconal_6_Switch-case\bin\Debug\net7.0\Estrutura_Condiconal_6_Switch-case.dll
+C:\Users\adryano.chavier\Documents\UdemyCSharp\Estrutura_Condiconal_6_Switch-case\bin\Debug\net7.0\Estrutura_Condiconal_6_Switch-case.pdb
+C:\Users\adryano.chavier\Documents\UdemyCSharp\Estrutura_Condiconal_6_Switch-case\obj\Debug\net7.0\Estrutura_Condiconal_6_Switch-case.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adryano.chavier\Documents\UdemyCSharp\Estrutura_Condiconal_6_Switch-case\obj\Debug\net7.0\Estrutura_Condiconal_6_Switch-case.AssemblyInfoInputs.cache
+C:\Users\adryano.chavier\Documents\UdemyCSharp\Estrutura_Condiconal_6_Switch-case\obj\Debug\net7.0\Estrutura_Condiconal_6_Switch-case.AssemblyInfo.cs
+C:\Users\adryano.chavier\Documents\UdemyCSharp\Estrutura_Condiconal_6_Switch-case\obj\Debug\net7.0\Estrutura_Condiconal_6_Switch-case.csproj.CoreCompileInputs.cache
+C:\Users\adryano.chavier\Documents\UdemyCSharp\Estrutura_Condiconal_6_Switch-case\obj\Debug\net7.0\Estrutura_Condiconal_6_Switch-case.dll
+C:\Users\adryano.chavier\Documents\UdemyCSharp\Estrutura_Condiconal_6_Switch-case\obj\Debug\net7.0\refint\Estrutura_Condiconal_6_Switch-case.dll
+C:\Users\adryano.chavier\Documents\UdemyCSharp\Estrutura_Condiconal_6_Switch-case\obj\Debug\net7.0\Estrutura_Condiconal_6_Switch-case.pdb
+c:\Users\adryano.chavier\Documents\UdemyCSharp\Estrutura_Condiconal_6_Switch-case\obj\Debug\net7.0\Estrutura_Condiconal_6_Switch-case.genruntimeconfig.cache
+c:\Users\adryano.chavier\Documents\UdemyCSharp\Estrutura_Condiconal_6_Switch-case\obj\Debug\net7.0\ref\Estrutura_Condiconal_6_Switch-case.dll
