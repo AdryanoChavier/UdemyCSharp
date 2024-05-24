@@ -1,0 +1,14 @@
+C:\Users\adryano.chavier\Documents\UdemyCSharp\Estrutura_Condicional_1\bin\Debug\net7.0\Estrutura_Condicional_1.exe
+c:\Users\adryano.chavier\Documents\UdemyCSharp\Estrutura_Condicional_1\bin\Debug\net7.0\Estrutura_Condicional_1.deps.json
+c:\Users\adryano.chavier\Documents\UdemyCSharp\Estrutura_Condicional_1\bin\Debug\net7.0\Estrutura_Condicional_1.runtimeconfig.json
+C:\Users\adryano.chavier\Documents\UdemyCSharp\Estrutura_Condicional_1\bin\Debug\net7.0\Estrutura_Condicional_1.dll
+C:\Users\adryano.chavier\Documents\UdemyCSharp\Estrutura_Condicional_1\bin\Debug\net7.0\Estrutura_Condicional_1.pdb
+C:\Users\adryano.chavier\Documents\UdemyCSharp\Estrutura_Condicional_1\obj\Debug\net7.0\Estrutura_Condicional_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adryano.chavier\Documents\UdemyCSharp\Estrutura_Condicional_1\obj\Debug\net7.0\Estrutura_Condicional_1.AssemblyInfoInputs.cache
+C:\Users\adryano.chavier\Documents\UdemyCSharp\Estrutura_Condicional_1\obj\Debug\net7.0\Estrutura_Condicional_1.AssemblyInfo.cs
+C:\Users\adryano.chavier\Documents\UdemyCSharp\Estrutura_Condicional_1\obj\Debug\net7.0\Estrutura_Condicional_1.csproj.CoreCompileInputs.cache
+C:\Users\adryano.chavier\Documents\UdemyCSharp\Estrutura_Condicional_1\obj\Debug\net7.0\Estrutura_Condicional_1.dll
+C:\Users\adryano.chavier\Documents\UdemyCSharp\Estrutura_Condicional_1\obj\Debug\net7.0\refint\Estrutura_Condicional_1.dll
+C:\Users\adryano.chavier\Documents\UdemyCSharp\Estrutura_Condicional_1\obj\Debug\net7.0\Estrutura_Condicional_1.pdb
+c:\Users\adryano.chavier\Documents\UdemyCSharp\Estrutura_Condicional_1\obj\Debug\net7.0\Estrutura_Condicional_1.genruntimeconfig.cache
+c:\Users\adryano.chavier\Documents\UdemyCSharp\Estrutura_Condicional_1\obj\Debug\net7.0\ref\Estrutura_Condicional_1.dll
