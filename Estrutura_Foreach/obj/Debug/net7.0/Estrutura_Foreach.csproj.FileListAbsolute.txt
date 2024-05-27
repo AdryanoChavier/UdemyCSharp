@@ -1,0 +1,14 @@
+C:\Users\adryano.chavier\Documents\UdemyCSharp\Estrutura_Foreach\bin\Debug\net7.0\Estrutura_Foreach.exe
+C:\Users\adryano.chavier\Documents\UdemyCSharp\Estrutura_Foreach\bin\Debug\net7.0\Estrutura_Foreach.deps.json
+C:\Users\adryano.chavier\Documents\UdemyCSharp\Estrutura_Foreach\bin\Debug\net7.0\Estrutura_Foreach.runtimeconfig.json
+C:\Users\adryano.chavier\Documents\UdemyCSharp\Estrutura_Foreach\bin\Debug\net7.0\Estrutura_Foreach.dll
+C:\Users\adryano.chavier\Documents\UdemyCSharp\Estrutura_Foreach\bin\Debug\net7.0\Estrutura_Foreach.pdb
+C:\Users\adryano.chavier\Documents\UdemyCSharp\Estrutura_Foreach\obj\Debug\net7.0\Estrutura_Foreach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adryano.chavier\Documents\UdemyCSharp\Estrutura_Foreach\obj\Debug\net7.0\Estrutura_Foreach.AssemblyInfoInputs.cache
+C:\Users\adryano.chavier\Documents\UdemyCSharp\Estrutura_Foreach\obj\Debug\net7.0\Estrutura_Foreach.AssemblyInfo.cs
+C:\Users\adryano.chavier\Documents\UdemyCSharp\Estrutura_Foreach\obj\Debug\net7.0\Estrutura_Foreach.csproj.CoreCompileInputs.cache
+C:\Users\adryano.chavier\Documents\UdemyCSharp\Estrutura_Foreach\obj\Debug\net7.0\Estrutura_Foreach.dll
+C:\Users\adryano.chavier\Documents\UdemyCSharp\Estrutura_Foreach\obj\Debug\net7.0\refint\Estrutura_Foreach.dll
+C:\Users\adryano.chavier\Documents\UdemyCSharp\Estrutura_Foreach\obj\Debug\net7.0\Estrutura_Foreach.pdb
+C:\Users\adryano.chavier\Documents\UdemyCSharp\Estrutura_Foreach\obj\Debug\net7.0\Estrutura_Foreach.genruntimeconfig.cache
+C:\Users\adryano.chavier\Documents\UdemyCSharp\Estrutura_Foreach\obj\Debug\net7.0\ref\Estrutura_Foreach.dll
