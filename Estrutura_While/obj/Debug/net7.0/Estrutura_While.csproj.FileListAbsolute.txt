@@ -1,0 +1,14 @@
+C:\Users\adryano.chavier\Documents\UdemyCSharp\Estrutura_While\bin\Debug\net7.0\Estrutura_While.exe
+c:\Users\adryano.chavier\Documents\UdemyCSharp\Estrutura_While\bin\Debug\net7.0\Estrutura_While.deps.json
+c:\Users\adryano.chavier\Documents\UdemyCSharp\Estrutura_While\bin\Debug\net7.0\Estrutura_While.runtimeconfig.json
+C:\Users\adryano.chavier\Documents\UdemyCSharp\Estrutura_While\bin\Debug\net7.0\Estrutura_While.dll
+C:\Users\adryano.chavier\Documents\UdemyCSharp\Estrutura_While\bin\Debug\net7.0\Estrutura_While.pdb
+C:\Users\adryano.chavier\Documents\UdemyCSharp\Estrutura_While\obj\Debug\net7.0\Estrutura_While.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adryano.chavier\Documents\UdemyCSharp\Estrutura_While\obj\Debug\net7.0\Estrutura_While.AssemblyInfoInputs.cache
+C:\Users\adryano.chavier\Documents\UdemyCSharp\Estrutura_While\obj\Debug\net7.0\Estrutura_While.AssemblyInfo.cs
+C:\Users\adryano.chavier\Documents\UdemyCSharp\Estrutura_While\obj\Debug\net7.0\Estrutura_While.csproj.CoreCompileInputs.cache
+C:\Users\adryano.chavier\Documents\UdemyCSharp\Estrutura_While\obj\Debug\net7.0\Estrutura_While.dll
+C:\Users\adryano.chavier\Documents\UdemyCSharp\Estrutura_While\obj\Debug\net7.0\refint\Estrutura_While.dll
+C:\Users\adryano.chavier\Documents\UdemyCSharp\Estrutura_While\obj\Debug\net7.0\Estrutura_While.pdb
+c:\Users\adryano.chavier\Documents\UdemyCSharp\Estrutura_While\obj\Debug\net7.0\Estrutura_While.genruntimeconfig.cache
+c:\Users\adryano.chavier\Documents\UdemyCSharp\Estrutura_While\obj\Debug\net7.0\ref\Estrutura_While.dll

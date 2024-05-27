@@ -1,0 +1,14 @@
+C:\Users\adryano.chavier\Documents\UdemyCSharp\Estrutura_Whie_3\bin\Debug\net7.0\Estrutura_Whie_3.exe
+c:\Users\adryano.chavier\Documents\UdemyCSharp\Estrutura_Whie_3\bin\Debug\net7.0\Estrutura_Whie_3.deps.json
+c:\Users\adryano.chavier\Documents\UdemyCSharp\Estrutura_Whie_3\bin\Debug\net7.0\Estrutura_Whie_3.runtimeconfig.json
+C:\Users\adryano.chavier\Documents\UdemyCSharp\Estrutura_Whie_3\bin\Debug\net7.0\Estrutura_Whie_3.dll
+C:\Users\adryano.chavier\Documents\UdemyCSharp\Estrutura_Whie_3\bin\Debug\net7.0\Estrutura_Whie_3.pdb
+C:\Users\adryano.chavier\Documents\UdemyCSharp\Estrutura_Whie_3\obj\Debug\net7.0\Estrutura_Whie_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adryano.chavier\Documents\UdemyCSharp\Estrutura_Whie_3\obj\Debug\net7.0\Estrutura_Whie_3.AssemblyInfoInputs.cache
+C:\Users\adryano.chavier\Documents\UdemyCSharp\Estrutura_Whie_3\obj\Debug\net7.0\Estrutura_Whie_3.AssemblyInfo.cs
+C:\Users\adryano.chavier\Documents\UdemyCSharp\Estrutura_Whie_3\obj\Debug\net7.0\Estrutura_Whie_3.csproj.CoreCompileInputs.cache
+C:\Users\adryano.chavier\Documents\UdemyCSharp\Estrutura_Whie_3\obj\Debug\net7.0\Estrutura_Whie_3.dll
+C:\Users\adryano.chavier\Documents\UdemyCSharp\Estrutura_Whie_3\obj\Debug\net7.0\refint\Estrutura_Whie_3.dll
+C:\Users\adryano.chavier\Documents\UdemyCSharp\Estrutura_Whie_3\obj\Debug\net7.0\Estrutura_Whie_3.pdb
+c:\Users\adryano.chavier\Documents\UdemyCSharp\Estrutura_Whie_3\obj\Debug\net7.0\Estrutura_Whie_3.genruntimeconfig.cache
+c:\Users\adryano.chavier\Documents\UdemyCSharp\Estrutura_Whie_3\obj\Debug\net7.0\ref\Estrutura_Whie_3.dll
