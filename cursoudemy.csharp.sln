@@ -43,6 +43,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Estrutura_Condicional_8_Jud
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Estrutura_Condicional_9_Judge", "Estrutura_Condicional_9_Judge\Estrutura_Condicional_9_Judge.csproj", "{4E6C7AE1-4F72-44B6-A446-ED620E8F945F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Estrutura_Condiconal_10_While", "Estrutura_Condiconal_10_While\Estrutura_Condiconal_10_While.csproj", "{7375CE19-62B9-4D50-9815-E1E1F6BE9ABD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Estrutura_While", "Estrutura_While\Estrutura_While.csproj", "{8A6A0633-959E-47BB-BCBB-5286BCE288C1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -132,5 +136,13 @@ Global
 		{4E6C7AE1-4F72-44B6-A446-ED620E8F945F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4E6C7AE1-4F72-44B6-A446-ED620E8F945F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4E6C7AE1-4F72-44B6-A446-ED620E8F945F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7375CE19-62B9-4D50-9815-E1E1F6BE9ABD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7375CE19-62B9-4D50-9815-E1E1F6BE9ABD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7375CE19-62B9-4D50-9815-E1E1F6BE9ABD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7375CE19-62B9-4D50-9815-E1E1F6BE9ABD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A6A0633-959E-47BB-BCBB-5286BCE288C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A6A0633-959E-47BB-BCBB-5286BCE288C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A6A0633-959E-47BB-BCBB-5286BCE288C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A6A0633-959E-47BB-BCBB-5286BCE288C1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
