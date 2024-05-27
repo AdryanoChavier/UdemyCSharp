@@ -1,0 +1,14 @@
+C:\Users\adryano.chavier\Documents\UdemyCSharp\Estrutura_DoWhile\bin\Debug\net7.0\Estrutura_DoWhile.exe
+C:\Users\adryano.chavier\Documents\UdemyCSharp\Estrutura_DoWhile\bin\Debug\net7.0\Estrutura_DoWhile.deps.json
+C:\Users\adryano.chavier\Documents\UdemyCSharp\Estrutura_DoWhile\bin\Debug\net7.0\Estrutura_DoWhile.runtimeconfig.json
+C:\Users\adryano.chavier\Documents\UdemyCSharp\Estrutura_DoWhile\bin\Debug\net7.0\Estrutura_DoWhile.dll
+C:\Users\adryano.chavier\Documents\UdemyCSharp\Estrutura_DoWhile\bin\Debug\net7.0\Estrutura_DoWhile.pdb
+C:\Users\adryano.chavier\Documents\UdemyCSharp\Estrutura_DoWhile\obj\Debug\net7.0\Estrutura_DoWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adryano.chavier\Documents\UdemyCSharp\Estrutura_DoWhile\obj\Debug\net7.0\Estrutura_DoWhile.AssemblyInfoInputs.cache
+C:\Users\adryano.chavier\Documents\UdemyCSharp\Estrutura_DoWhile\obj\Debug\net7.0\Estrutura_DoWhile.AssemblyInfo.cs
+C:\Users\adryano.chavier\Documents\UdemyCSharp\Estrutura_DoWhile\obj\Debug\net7.0\Estrutura_DoWhile.csproj.CoreCompileInputs.cache
+C:\Users\adryano.chavier\Documents\UdemyCSharp\Estrutura_DoWhile\obj\Debug\net7.0\Estrutura_DoWhile.dll
+C:\Users\adryano.chavier\Documents\UdemyCSharp\Estrutura_DoWhile\obj\Debug\net7.0\refint\Estrutura_DoWhile.dll
+C:\Users\adryano.chavier\Documents\UdemyCSharp\Estrutura_DoWhile\obj\Debug\net7.0\Estrutura_DoWhile.pdb
+C:\Users\adryano.chavier\Documents\UdemyCSharp\Estrutura_DoWhile\obj\Debug\net7.0\Estrutura_DoWhile.genruntimeconfig.cache
+C:\Users\adryano.chavier\Documents\UdemyCSharp\Estrutura_DoWhile\obj\Debug\net7.0\ref\Estrutura_DoWhile.dll

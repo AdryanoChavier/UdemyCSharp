@@ -1,0 +1,14 @@
+C:\Users\adryano.chavier\Documents\UdemyCSharp\Estrututa_Vetor_2\bin\Debug\net7.0\Estrututa_Vetor_2.exe
+C:\Users\adryano.chavier\Documents\UdemyCSharp\Estrututa_Vetor_2\bin\Debug\net7.0\Estrututa_Vetor_2.deps.json
+C:\Users\adryano.chavier\Documents\UdemyCSharp\Estrututa_Vetor_2\bin\Debug\net7.0\Estrututa_Vetor_2.runtimeconfig.json
+C:\Users\adryano.chavier\Documents\UdemyCSharp\Estrututa_Vetor_2\bin\Debug\net7.0\Estrututa_Vetor_2.dll
+C:\Users\adryano.chavier\Documents\UdemyCSharp\Estrututa_Vetor_2\bin\Debug\net7.0\Estrututa_Vetor_2.pdb
+C:\Users\adryano.chavier\Documents\UdemyCSharp\Estrututa_Vetor_2\obj\Debug\net7.0\Estrututa_Vetor_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adryano.chavier\Documents\UdemyCSharp\Estrututa_Vetor_2\obj\Debug\net7.0\Estrututa_Vetor_2.AssemblyInfoInputs.cache
+C:\Users\adryano.chavier\Documents\UdemyCSharp\Estrututa_Vetor_2\obj\Debug\net7.0\Estrututa_Vetor_2.AssemblyInfo.cs
+C:\Users\adryano.chavier\Documents\UdemyCSharp\Estrututa_Vetor_2\obj\Debug\net7.0\Estrututa_Vetor_2.csproj.CoreCompileInputs.cache
+C:\Users\adryano.chavier\Documents\UdemyCSharp\Estrututa_Vetor_2\obj\Debug\net7.0\Estrututa_Vetor_2.dll
+C:\Users\adryano.chavier\Documents\UdemyCSharp\Estrututa_Vetor_2\obj\Debug\net7.0\refint\Estrututa_Vetor_2.dll
+C:\Users\adryano.chavier\Documents\UdemyCSharp\Estrututa_Vetor_2\obj\Debug\net7.0\Estrututa_Vetor_2.pdb
+C:\Users\adryano.chavier\Documents\UdemyCSharp\Estrututa_Vetor_2\obj\Debug\net7.0\Estrututa_Vetor_2.genruntimeconfig.cache
+C:\Users\adryano.chavier\Documents\UdemyCSharp\Estrututa_Vetor_2\obj\Debug\net7.0\ref\Estrututa_Vetor_2.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Estrututra_Vetor_3/1.0.0": {
+        "runtime": {
+          "Estrututra_Vetor_3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Estrututra_Vetor_3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
